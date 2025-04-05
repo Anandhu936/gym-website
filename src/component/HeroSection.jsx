@@ -6,7 +6,7 @@ const HeroSection = () => {
         <div className='grid lg:grid-cols-[1fr_1.5fr] gap-6 mt-[20px] lg:mt-[100px]'>
           
            <div className='lg:order-2'>
-            <img src="/images/hero-img-gym.png" alt="" />
+            <img src="https://anandhu936.github.io/gym-website/images/hero-img-gym.png" alt="" />
            </div>
            <div className='text-white lg:order-1 ml-[25px] lg:ml-0'>
               <h4 className='text-sm  lg:text-xl text-orange-300'>BEST FITNESS IN THE TOWN</h4>

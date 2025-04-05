@@ -11,7 +11,7 @@ const InfoSection = () => {
       </p></div>
       
       <div className=" mt-[70px]">
-        <img className="rounded-lg h-[400px] lg:h-[600px] w-full" src="/images/gym-bg.jpg" alt="" srcset="" />
+        <img className="rounded-lg h-[400px] lg:h-[600px] w-full" src="https://anandhu936.github.io/gym-website/images/gym-bg.jpg" alt="" srcset="" />
       </div>
       <div className="bg-gray-700 rounded-lg p-5 mx-[8%] relative top-[-40px]">
         <div className=" grid grid-cols-1 lg:grid-cols-3 gap-5">

@@ -17,7 +17,7 @@ function ClassSection() {
           <button className='border-1 hover:border-orange-400 transition duration-300 ease-in-out text-white px-6 py-2 rounded-md  cursor-pointer mt-15 '>Join Now</button>
         </div>
         <div className="lg:order-1">
-           <img className="rounded-lg" src="/images/gym-7.jpg" alt="" />
+           <img className="rounded-lg" src="https://anandhu936.github.io/gym-website/images/gym-7.jpg" alt="" />
         </div>
       </div>
     </div>
